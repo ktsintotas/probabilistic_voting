@@ -26,9 +26,6 @@ params = parametersDefinition();
 % dataset's frame rate definition
 visualData.frameRate = %; 
 
-% timers memory allocation
-timer = timersInitialization(visualData, timer);
-
 % the query procedure
 [matches, timer] = queryingDatabase(params, visualData);
 
