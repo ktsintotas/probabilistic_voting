@@ -8,4 +8,4 @@ Note that the probabilistic voting approach is not an official implementation ba
 Probabilistic vertex voting is distributed under the terms of the [MIT License](https://github.com/ktsintotas/Bag-of-Tracked-Words/blob/master/LICENSE).
 
 ## Related publication
-The details of the algorithm are explained in the [following publication](https://ieeexplore.ieee.org/document/7989362):
+The details of the algorithm are explained in the [following publication](https://ieeexplore.ieee.org/document/7989362).
